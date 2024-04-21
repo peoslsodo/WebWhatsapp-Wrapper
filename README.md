@@ -27,48 +27,48 @@ You can easily auto-reply to any message (contacts or nocontacts)
                 <img src="https://i.ibb.co/1YVTnvy/01active.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-how to active" /></a>
 
-                <a href="https://youtu.be/l-gjpsartdA" terget="_blank">
+<a href="https://youtu.be/l-gjpsartdA" terget="_blank">
                 <img src="https://i.ibb.co/M6zm8VH/02login.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-login wa" /> </a>
 
-            <a href="https://youtu.be/JDWFUtv1lo8" terget="_blank">
+<a href="https://youtu.be/JDWFUtv1lo8" terget="_blank">
                 <img src="https://i.ibb.co/6FmCVDd/03message.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-message" /></a>
  
 
-   <a href="https://youtu.be/Er54iw3_wEU" terget="_blank">
+  <a href="https://youtu.be/Er54iw3_wEU" terget="_blank">
                 <img src="https://i.ibb.co/fCPXZ9p/04filter.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-whatsapp contact filter" /></a>
 
-             <a href="https://youtu.be/-7N3JOJYbnQ" terget="_blank">
+<a href="https://youtu.be/-7N3JOJYbnQ" terget="_blank">
                 <img src="https://i.ibb.co/vs9RkNg/05contactsend.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-whatsapp contact send message" /></a>
     
-            <a href="https://youtu.be/wBmViqgVbpc" terget="_blank">
+<a href="https://youtu.be/wBmViqgVbpc" terget="_blank">
                 <img src="https://i.ibb.co/qgHvHyn/06phonesend.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-phone number send message" /></a>
      
-            <a href="https://youtu.be/K2_NyC41aqs" terget="_blank">
+<a href="https://youtu.be/K2_NyC41aqs" terget="_blank">
                 <img src="https://i.ibb.co/BNbkKQg/07join.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-bulk join group" /></a>
        
-            <a href="https://youtu.be/6rNdsiV6OaQ" terget="_blank">
+<a href="https://youtu.be/6rNdsiV6OaQ" terget="_blank">
                 <img src="https://i.ibb.co/wBzdSSQ/08extract.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-extract group members" /></a>
        
-            <a href="https://youtu.be/RqUoxPyZZRU" terget="_blank">
+ <a href="https://youtu.be/RqUoxPyZZRU" terget="_blank">
                 <img src="https://i.ibb.co/4mVF505/09gsend.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-bulk group send message" /></a>
        
-            <a href="https://youtu.be/07Vyd7Eg0uw" terget="_blank">
+<a href="https://youtu.be/07Vyd7Eg0uw" terget="_blank">
                 <img src="https://i.ibb.co/k3jJffp/10automessage.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-auto message list" /></a>
         
-            <a href="https://youtu.be/oVcQiOi7z4Q" terget="_blank">
+ <a href="https://youtu.be/oVcQiOi7z4Q" terget="_blank">
                 <img src="https://i.ibb.co/nmBwR0M/11autoreply.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-auto reply message" /></a>
         
-            <a href="https://youtu.be/PlC7GqhF5wc" terget="_blank">
+ <a href="https://youtu.be/PlC7GqhF5wc" terget="_blank">
                 <img src="https://i.ibb.co/BV6jZ5f/12lang.png"
                      alt="Whatsapp Bulk Sender | Group Sender |Auto Reply App +License Generate Key App-video-multi-language" /></a>
        
